@@ -43,7 +43,7 @@ $ npm Install
 ```
 
 ```bash
-# Install the dependencies, if use npm
+# Install the dependencies, if use yarn
 $ yarn
 ```
 
