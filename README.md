@@ -12,6 +12,7 @@ Aqui</a></h1>
 ## 📕 Sobre o Projeto
 
 **Local Maps** é um projeto pessoal para minha evolução como programador full-stack. O projeto consiste em adicionar locais no mapa tipo um site ou app de cadastramentos de pontos comérciais. No site você cadastra seu ponto e no app você filtra escolhendo umas das opcões na parte inferior do app para ver o seu ponto cadastrado e suas informacões que você adicionou na hora do cadastramento. Só basta clicar no icóne que a logo do projeto no mapa para ver as informacões.
+Observação: A api do projeto não fica em uma maquina remota fica no meu pc. Então si você quiser testar o projeto de forma que nao der nenhum erro tente mandar uma menssagem para mim que eu ligo o servidor da api aqui no meu pc. Ou si não você pode subir do seu proprio pc já que a api já estar pronta.
 
 ## 🔨 Tecnológias usadas
 
