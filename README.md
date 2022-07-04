@@ -22,7 +22,7 @@ Observação: A api do projeto não fica em uma maquina remota fica no meu pc. E
 - [React Native (app)](https://reactnative.dev/)
 - [Expo (app)](https://docs.expo.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
-- SqlLite3
+- Sqlite3
 - TypeOrm
 
 ## ♻ Como contribuir ou rodar o projeto na sua maquina
