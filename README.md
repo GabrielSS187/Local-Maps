@@ -27,6 +27,7 @@ Aqui</a></h1>
 - [React Native (app)](https://reactnative.dev/)
 - [Expo (app)](https://docs.expo.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
+- Styled-Components
 - Sqlite3
 - TypeOrm
 
