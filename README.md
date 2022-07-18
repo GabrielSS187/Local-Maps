@@ -12,7 +12,6 @@ Aqui</a></h1>
 ## 📕 Sobre o Projeto
 
 **Local Maps** é um projeto pessoal para minha evolução como programador full-stack. O projeto consiste em adicionar locais no mapa tipo um site ou app de cadastramentos de pontos comérciais. No site você cadastra seu ponto e no app você filtra escolhendo umas das opcões na parte inferior do app para ver o seu ponto cadastrado e suas informacões que você adicionou na hora do cadastramento. Só basta clicar no icóne que a logo do projeto no mapa para ver as informacões.
-Observação: A api do projeto não fica em uma maquina remota fica no meu pc. Então si você quiser testar o projeto de forma que nao der nenhum erro tente mandar uma menssagem para mim que eu ligo o servidor da api aqui no meu pc. Ou si não você pode subir do seu proprio pc já que a api já estar pronta.
 
 ![Captura de Tela (124)](https://user-images.githubusercontent.com/86306877/179429568-8c37c81c-6b68-45fa-8dd1-d8548dbc7981.png)
 ![Captura de Tela (127)](https://user-images.githubusercontent.com/86306877/179429569-50dd601d-89c2-4431-8d98-2a2ed07e9070.png)
@@ -82,3 +81,8 @@ $ d
 
 ## Depois desse passo a passo ele ira abrir no seu navegador um site com varias opcões. Você não precisa escolher nenhuma apénas scanei o codigo QR que aparecerá para você assim que o site abrir.
 
+# Autor
+
+Gabriel Silva Souza
+
+https://www.linkedin.com/in/gabriel-silva-souza-developer
